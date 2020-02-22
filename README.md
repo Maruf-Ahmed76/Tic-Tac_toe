@@ -9,6 +9,6 @@
 ```
 I build this game for my friend's.
 ```
-[](https://raw.githubusercontent.com/Maruf-Ahmed76/Tic-Tac_toe/master/tgame.png)
+![](/tgame.png)
 
 ###Demo [Here](https://tgame.netlify.com)
