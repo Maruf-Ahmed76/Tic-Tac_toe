@@ -1,7 +1,7 @@
 ## Game time 🎉
-**Name: **Tic-tac-toe
-**Category: **Paper-and-pencil game
-**Programming language: ** 
+**Name:** Tic-tac-toe
+**Category:** Paper-and-pencil game
+**Programming language:** 
 - HTML
 - CSS and 
 - ReactJs ☸
